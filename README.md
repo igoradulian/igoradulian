@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**igoradulian/igoradulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--**igoradulian/igoradulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on: Awsome project as co-founder at KrypticMed Inc
 - 🌱 I’m currently learning Spring Reactive Programing and React
@@ -13,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/igor-adulyan/
 - 😄 Pronouns: Igor not like ice-cream like E but don't write my name Egor
 - ⚡ Fun fact: Ask me 😉
--->
 
 About me:
 
