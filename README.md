@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: Awsome project as co-founder at KrypticMed Inc
 - 🌱 I’m currently learning Spring Reactive Programing and React
 - 👯 I’m looking to collaborate on ... On new start-ups which I and my team workng on
-- 🤔 I’m looking for help with ... Probably
+- 🤔 I’m looking for help with ... Probably front-end
 - 💬 Ask me about: How to code in Java, Python and a lot more ...
 - 📫 How to reach me: https://www.linkedin.com/in/igor-adulyan/
 - 😄 Pronouns: Igor not like ice-cream like E but don't write my name Egor
