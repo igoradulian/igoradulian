@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=igoradulian&show_icons=true)
 
 
 <!--**igoradulian/igoradulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
