@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  ![Profile View Counter](https://komarev.com/ghpvc/?username=igoradulian)
 
 <!--**igoradulian/igoradulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -11,7 +11,7 @@
 - 😄 Pronouns: Igor not like ice-cream like E but don't write my name Egor
 - ⚡ Fun fact: Ask me 😉
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&langs_count=10&hide_progress=true)  ![Profile View Counter](https://komarev.com/ghpvc/?username=igoradulian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&langs_count=10&hide_progress=true) 
 
 About me:
 
