@@ -11,13 +11,7 @@
 - 😄 Pronouns: Igor not like ice-cream like E but don't write my name Egor
 - ⚡ Fun fact: Ask me 😉
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&langs_count=10&hide_progress=true)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=igoradulian)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/igoradulian/SpringDemoExamples)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/igoradulian/simple_maven_junit_mockito)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&langs_count=10&hide_progress=true)  ![Profile View Counter](https://komarev.com/ghpvc/?username=igoradulian)
 
 About me:
 
