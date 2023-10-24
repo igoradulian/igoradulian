@@ -1,5 +1,4 @@
-### Hi there 👋    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=igoradulian&show_icons=true)
-
+### Hi there 👋
 
 <!--**igoradulian/igoradulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -11,6 +10,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/igor-adulyan/
 - 😄 Pronouns: Igor not like ice-cream like E but don't write my name Egor
 - ⚡ Fun fact: Ask me 😉
+
+- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=igoradulian&show_icons=true)
 
 About me:
 
