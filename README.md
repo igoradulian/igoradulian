@@ -11,7 +11,7 @@
 - 😄 Pronouns: Igor not like ice-cream like E but don't write my name Egor
 - ⚡ Fun fact: Ask me 😉
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&hide_progress=false)
 
 About me:
 
