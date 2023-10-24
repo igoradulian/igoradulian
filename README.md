@@ -13,6 +13,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&langs_count=10&hide_progress=true)
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/igoradulian/SpringDemoExamples)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/igoradulian/simple_maven_junit_mockito)
+
 About me:
 
 I am a skilled Java developer with extensive knowledge of various technologies, including Spring Cloud, Redis, Thymeleaf, Spring Boot, Spring Framework, React.js, Test Driven Development, JUnit, Selenium, software testing, Spring MVC, MySQL, Jenkins, Java, Python, shell scripting, HTML, Linux, Cascading Style Sheets, JavaFX, GitHub, Git, JavaScript, Hibernate, agile methodologies, Docker, TestNG, automation, Java teaching and instructions, and startup co-founder experience.
