@@ -2,7 +2,7 @@
 
 <!--**igoradulian/igoradulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on: Awsome project as co-founder at KrypticMed Inc
+- 🔭 I’m currently working on: Awsome project as co-founder
 - 🌱 I’m currently learning Spring Reactive Programing and React
 - 👯 I’m looking to collaborate on ... On new start-ups which I and my team workng on
 - 🤔 I’m looking for help with ... Probably front-end
