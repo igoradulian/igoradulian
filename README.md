@@ -63,8 +63,6 @@ Full-stack booking application on Spring Boot 3 — reservations, auth, admin ma
 **Senior Software Engineer**, KrypticMED — HIPAA-compliant healthcare microservices, Epic and PointClickCare EHR integrations, Redis-backed data layer
 **Freelance Software Engineer** — custom software for LA-area clients, 2017–2021
 
-English · Russian · Armenian
-
 <!-- OPTIONAL — uncomment if you're actively looking:
 ---
 **Open to backend and platform engineering roles.** Reach me on [LinkedIn](https://www.linkedin.com/in/igor-adulyan/).
