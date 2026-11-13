@@ -91,10 +91,6 @@ Built to work through the hard parts of real-time delivery: backpressure, resili
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 <!-- OPTIONAL — uncomment if you're actively looking for work:
 <p align="center">
   <b>Open to backend and platform engineering roles.</b>
