@@ -90,6 +90,9 @@ Built to work through the hard parts of real-time delivery: backpressure, resili
 | [zetabooking-demo-project](https://github.com/igoradulian/zetabooking-demo-project) | Full-stack booking app — reservations, auth, admin, checkout | Spring Boot 3, MySQL |
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 <!-- OPTIONAL — uncomment if you're actively looking for work:
 <p align="center">
