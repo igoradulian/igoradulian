@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Igor Adulyan — backend engineer">
+  <rect width="1200" height="190" fill="#161b22"/>
+  <rect x="0" y="0" width="6" height="190" fill="#2f81f7"/>
+  <text x="56" y="78" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#e6edf3">Igor Adulyan</text>
+  <text x="58" y="113" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#8b949e" letter-spacing="0.4">Java / Spring  ·  Python  ·  Go  ·  AI Automation  ·  Distributed Systems</text>
+  <line x1="56" y1="136" x2="1144" y2="136" stroke="#30363d" stroke-width="1"/>
+  <text x="56" y="162" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f81f7">Los Angeles, CA</text>
+  <text x="1144" y="162" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6e7681">github.com/igoradulian</text>
+</svg>
