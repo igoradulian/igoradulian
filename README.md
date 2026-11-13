@@ -1,12 +1,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=igoradulian)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Igor%20Adulyan&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" />
+<img src="assets/banner.svg" alt="Igor Adulyan — Java/Spring, Python, Go, AI Automation, Distributed Systems" width="100%" />
 
-<p align="center">
-  <b>Java / Spring &nbsp; •&nbsp; Python &nbsp;•&nbsp; Go &nbsp;•&nbsp; AI Automation &nbsp;•&nbsp; Distributed Systems</b>
-</p>
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/igor-adulyan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:i.adulian@gmail.com"><img src="https://img.shields.io/badge/Gmail-C5221F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/igoradulian?tab=repositories"><img src="https://img.shields.io/badge/Projects-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -16,12 +12,12 @@
 
 ## 💡 What I Do
 
-|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Focus**      | Backend engineering — streaming pipelines, distributed services, API design, AI automation                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Experience** | Go and Spring Boot services, HIPAA-compliant healthcare systems, EHR integration, AI inference APIs                                                                                                                                                                                                                                                                                                                                                                              |
-| **Teaching**   | 3 years as Java Technical Instructor at Per Scholas — 90%+ cohort graduation rate![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Location**   | Los Angeles, CA · English / Russian / Armenian                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                |                                                                                                     |
+| -------------- | --------------------------------------------------------------------------------------------------- |
+| **Focus**      | Backend engineering — streaming pipelines, distributed services, API design, AI automation          |
+| **Experience** | Go and Spring Boot services, HIPAA-compliant healthcare systems, EHR integration, AI inference APIs |
+| **Teaching**   | 3 years as Java Technical Instructor at Per Scholas — 90%+ cohort graduation rate                   |
+| **Location**   | Los Angeles, CA · English / Russian / Armenian                                                      |
 
 ---
 
@@ -45,20 +41,20 @@ Built to work through the hard parts of real-time delivery: backpressure, resili
 
 ## 🛠️ Main Stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
 </p>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -90,7 +86,8 @@ Built to work through the hard parts of real-time delivery: backpressure, resili
 | [zetabooking-demo-project](https://github.com/igoradulian/zetabooking-demo-project) | Full-stack booking app — reservations, auth, admin, checkout | Spring Boot 3, MySQL |
 
 ---
-<p align="center">
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoradulian&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
@@ -100,4 +97,4 @@ Built to work through the hard parts of real-time delivery: backpressure, resili
 </p>
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+
