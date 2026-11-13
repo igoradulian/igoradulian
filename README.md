@@ -1,6 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=igoradulian)
 
-<img src="assets/banner.svg" alt="Igor Adulyan — Java/Spring, Python, Go, AI Automation, Distributed Systems" width="100%" />
+<img src="banner.svg" alt="Igor Adulyan — Java/Spring, Python, Go, AI Automation, Distributed Systems" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/igor-adulyan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
